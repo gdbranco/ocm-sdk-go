@@ -3,6 +3,24 @@
 This document describes the relevant changes between releases of the OCM API
 SDK.
 
+## 0.1.483 Sep 11 2026
+
+- fix: pin golang version for linting to go.mod version we use for ocm-lint binary
+- chore: bump version to v0.1.511
+- chore: bump ocm-api-model to v0.0.466
+- ROSAENG-13732 | feat: Implement BYO firewall rule endpoint verification
+- chore: bump ocm-api-model to v0.0.465
+- Update CONTRIBUTING.md
+- chore: bump version to v0.1.509
+- chore: bump ocm-api-model to v0.0.464
+- ROSAENG-62396 | chore: bump version to v0.1.508
+- ROSAENG-61162 | feat: changes to support BYO firewall for OSD-GCP deployments
+- chore: bump ocm-api-model to v0.0.463
+- ROSAENG-61032 | feat: changes to support SpotMarketOptions for ROSA HCP
+- ROSAENG-62396 | fix: automated release github workflow
+- chore: bump ocm-api-model to v0.0.462
+
+
 ## 0.1.511 Sept 9 2026
 
 - ARO-21548 | feat: Support specifying Azure marketplace images
